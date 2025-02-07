@@ -35,8 +35,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sofiabreug&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="136" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sofiabreug&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=aura&hide_border=false&order=2" height="135" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sofiabreug&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1" height="136" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sofiabreug&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true&order=2" height="135" alt="languages graph"  />
 </div>
 
 ###
